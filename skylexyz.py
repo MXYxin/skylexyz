@@ -1,3 +1,4 @@
+#mau remake izin dulu ya sayang
 import random
 import socket
 import threading
